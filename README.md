@@ -12,7 +12,6 @@ These are my tools of choice for coding chaos into clean:
 - 🛠 **Frameworks**: Spring Boot, Spring Data, Spring Security, Spring Web (basically anything with "Spring")
 - 🔒 **Security**: JWTs, OAuth2 — because your secrets deserve secrets
 - 📬 **Messaging**: Kafka – my go-to for whispering between microservices
-- 🧪 **Testing**: JUnit, Mockito – I break it, then prove it works
 - 🧘‍♂️ **Databases**: PostgreSQL (the grown-up choice), MongoDB (because sometimes I like chaos)
 - ☁️ **Stuff in the Cloud**: Firebase, Cloudinary, Docker
 - 🎧 **Real-time**: WebSockets + STOMP (my chat apps don’t wait)
